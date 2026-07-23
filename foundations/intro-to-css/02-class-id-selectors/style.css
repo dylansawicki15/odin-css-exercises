@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+p {
+    background-color: rgb(255, 84, 84);
+    font-size: 20px;
+}
+
+.cooler {
+    font-size: 60px;
+}
+
+#even {
+    color: blue;
+    font-size: 40px;
+}
+
+#another {
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(101, 168, 1);
+}
