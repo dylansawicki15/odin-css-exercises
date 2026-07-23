@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+.btn-confirm {
+    background-color: black;
+    color: white;
+}
+.btn-cancel {
+    background-color: yellow;
+    color: black;
+}
